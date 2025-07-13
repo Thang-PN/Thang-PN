@@ -1,9 +1,9 @@
 # About me
 NAME              : Thang  
 DATE OF BIRTH     : 16/03/2006  
-FROM              : VIETNAM
+FROM              : VIETNAM  
 NATIVE LANGUAGE   : JAPANESE  
-USABLE LANGUAGE   : ENGLISH
+USABLE LANGUAGE   : ENGLISH  
 
 # DOABLE
 - handle UbuntuLTS on console
